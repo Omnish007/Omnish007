@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/lucide-icons/lucide@0.468.0/icons/layers-3.svg" alt="" width="25" />
+      <img src="https://cdn.jsdelivr.net/gh/lucide-icons/lucide@0.468.0/icons/layers.svg" alt="" width="25" />
       <h3>Clarity</h3>
       <p>Readable code, focused modules, reusable components, and clear boundaries between responsibilities.</p>
     </td>
